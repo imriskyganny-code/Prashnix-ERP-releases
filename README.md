@@ -2,8 +2,8 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/imriskyganny-code/Prashnix-ERP-releases?color=2563EB&label=Version)](https://github.com/imriskyganny-code/Prashnix-ERP-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-16A34A)](https://github.com/imriskyganny-code/Prashnix-ERP-releases/releases/latest)
-[![Website](https://img.shields.io/badge/Official%20Site-omsanskarbadhnoo.com%2Ferp-blue)](https://omsanskarbadhnoo.com/erp/)
-[![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Free-purple)](https://omsanskarbadhnoo.com)
+[![Website](https://img.shields.io/badge/Official%20Site-prashnix.in%2Ferp-blue)](https://prashnix.in/erp/)
+[![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Free-purple)](https://prashnix.in)
 
 ---
 
@@ -42,5 +42,5 @@ Unlike recurring SaaS platforms that store sensitive student records and financi
 ---
 
 ## 🔗 Official Links
-- **Website & Documentation**: [omsanskarbadhnoo.com/erp](https://omsanskarbadhnoo.com/erp/)
-- **Assessment Engine (Question Paper Generator)**: [omsanskarbadhnoo.com](https://omsanskarbadhnoo.com)
+- **Website & Documentation**: [prashnix.in/erp](https://prashnix.in/erp/)
+- **Assessment Engine (Question Paper Generator)**: [prashnix.in](https://prashinx.in)
